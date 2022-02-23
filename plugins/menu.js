@@ -169,7 +169,7 @@ let handler = async (m, { conn, usedPrefix: _p, args, command }) => {
       return conn.relayWAMessage(conn.prepareMessageFromContent(m.chat, {
         "listMessage": {
           "title": `ꜱʜɪʙɪ sᴇʀ  ʙʏ ꜱʜɪʙɪ,
-┌─────❲ *ᴡɪᴢᴀʀᴅ sᴇʀ* ❳
+┌─────❲ *ꜱʜɪʙɪ sᴇʀ* ❳
 ┊
 └─────────────────❋ཻུ۪۪⸙
         
