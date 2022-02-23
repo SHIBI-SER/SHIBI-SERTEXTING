@@ -31,7 +31,7 @@
 
 ## `SCAN QR`
 
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@AjmalAchu123/Wizard-Ser-Qr-test)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@shibi007/Shibi-Ser-Qr-test-1?v=1)
 
 ## `DEPLOY`
 
@@ -74,11 +74,10 @@ Click WA logo to Join Support Group 👇
 
   <div align="center">
 
-  [![shibi](https://i.imgur.com/XCM04h0.jpeg)](https://github.com/SHIBI-SER)[`shibi`](https://github.com/SHIBI-SER)
 ----|
    `Base, Bug Fixes, Modules`
 
-  [![Ajmal](https://i.imgur.com/XCM04h0.jpeg)](https://github.com/SHIBI-SER)[`shibi`](https://github.com/SHIBI-SER)
+  [![shibi](https://i.imgur.com/XCM04h0.jpeg)](https://github.com/SHIBI-SER)[`shibi`](https://github.com/SHIBI-SER)
 ----|
    `Re-Developer, Bug Fixes, Modules, Commits`
 
