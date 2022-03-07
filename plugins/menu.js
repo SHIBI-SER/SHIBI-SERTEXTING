@@ -198,7 +198,7 @@ let handler = async (m, { conn, usedPrefix: _p, args, command }) => {
               "rows": [
                 {
                   "title": `SHIBI SER`,
-                  "description": "Wizard ser git link",
+                  "description": "Shibi ser git link",
                   "rowId": ".git"
                 }, {
                   "title": "💻Game",
